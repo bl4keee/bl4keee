@@ -22,6 +22,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Hibernate" width="26px" src="https://kosiorowski.net/wp-content/uploads/2013/11/hibernate1.png" />
+<img align="left" alt="Maven" width="26px" src="https://www.nicepng.com/png/full/259-2595574_maven-logo-svg-java-maven.png" />
 <img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
 <img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -29,8 +30,6 @@
 <img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 <img align="left" alt="Jiira" width="26px" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://lh3.googleusercontent.com/proxy/7z0y79O3Ur4EbfWu-CoTGoXD3r7bdEMSnq5EyFlZsEU_yqwVt3k2Bg8snqQieFO4TrEtuvX52xj2wdQqxyDBrCwiJc6-jSdeXeFVxzDnrtlFBdEMFHl3KV19VUyhf_CTgYeU5a40OHPNlNPRZkHV1YnGsEAtyHLB2hjfrQZSzaY0GRiGGqc_2g" />

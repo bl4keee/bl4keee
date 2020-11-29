@@ -8,6 +8,8 @@
 - 🌱 I’m currently working on ecommerce fullstack applications
 - 👯 I’m looking to collaborate with other content creators
 
+---
+
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />]
@@ -30,13 +32,17 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+---
+
+### Latest Blog Posts 📕 
 
 <!-- BLOG-POST-LIST:START -->
 - [Java JSON Data Binding](https://bulldogjob.pl/news/1401-java-json-data-binding)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+
+---
 
 ### Spotify Playing 🎧
 

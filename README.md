@@ -39,15 +39,11 @@
 - [Java JSON Data Binding](https://bulldogjob.pl/news/1401-java-json-data-binding)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ---
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bl4kee Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br />
 
 ---
 

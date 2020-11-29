@@ -27,7 +27,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />]
 [<img align="left" alt="Jiira" width="26px" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" />]
-[<img align="left" alt="Confluence" width="26px" src="https://banner2.cleanpng.com/20180610/vfv/kisspng-confluence-atlassian-sharepoint-information-confluence-health-mares-building-5b1da0e88afbb8.5291184815286683925693.jpg" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />]

@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-<img align="left" alt="Eclipse" width="26px" src="https://lh3.googleusercontent.com/proxy/7z0y79O3Ur4EbfWu-CoTGoXD3r7bdEMSnq5EyFlZsEU_yqwVt3k2Bg8snqQieFO4TrEtuvX52xj2wdQqxyDBrCwiJc6-jSdeXeFVxzDnrtlFBdEMFHl3KV19VUyhf_CTgYeU5a40OHPNlNPRZkHV1YnGsEAtyHLB2hjfrQZSzaY0GRiGGqc_2g" />
+<img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" />
 
 <br />
 <br />

@@ -22,7 +22,7 @@
 <img align="left" alt="Hibernate" width="26px" src="https://kosiorowski.net/wp-content/uploads/2013/11/hibernate1.png" />
 <img align="left" alt="Maven" width="26px" src="https://larocqueinc.com/wp-content/uploads/2020/02/Maven-logo-300x300.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Jenkins" width="26px" src="http://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png" />
 <img align="left" alt="JUnit" width="26px" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" />
 <img align="left" alt="Mockito" width="26px" src="https://raw.githubusercontent.com/mockito/mockito/release/3.x/src/javadoc/org/mockito/logo.png" />
 <img align="left" alt="Heroku" width="26px" src="https://www.pngrepo.com/png/303683/180/heroku-logo.png" />

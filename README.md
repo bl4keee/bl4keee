@@ -3,7 +3,7 @@
 - 📕 I’m Computer Science & Econometrics student
 - ⚡ I'm currently working in Comarch
 - 🎯 2021 Goals: Bachelor thesis on Continuous Integration and Continuous Delivery
-- 🌱 I’m currently working on ecommerce fullstack applications
+- 🌱 I’m currently working on my open source Kanban-Board App
 
 ### Latest Blog Posts 📕 
 

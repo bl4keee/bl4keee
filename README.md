@@ -1,13 +1,9 @@
-### Hi there, I'm Bartek <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-
-## I'm a Student and Developer!
+## Hi there, I'm a Student and a Developer! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 - 📕 I’m Computer Science & Econometrics student
 - ⚡ I'm currently working in Comarch
 - 🎯 2021 Goals: Bachelor thesis on Continuous Integration and Continuous Delivery
 - 🌱 I’m currently working on ecommerce fullstack applications
-
----
 
 ### Languages and Tools 🛠️
 

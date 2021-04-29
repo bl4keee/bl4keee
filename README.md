@@ -1,4 +1,4 @@
-## Hi there, I'm a Student and a Developer! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+## Hi there, I'm a Student and a Developer! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 - 📕 I’m Computer Science & Econometrics student
 - ⚡ I'm currently working in Comarch

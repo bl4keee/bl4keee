@@ -1,9 +1,9 @@
 ## Hi there, I'm a Student and a Developer! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
-- 📕 I’m Computer Science & Econometrics student
-- ⚡ I'm currently working in Comarch
+- ⚡ Currently working in Comarch
+- 📕 Computer Science & Econometrics student
+- 🌱 Working on my open source Kanban-Board App in my spare time
 - 🎯 2021 Goals: Bachelor thesis on Continuous Integration and Continuous Delivery
-- 🌱 I’m currently working on my open source Kanban-Board App
 
 ### Latest Blog Posts 📕 
 

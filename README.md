@@ -5,7 +5,7 @@
 - 🌱 Working on my open source Kanban-Board App in my spare time
 - 🎯 2021 Goal: Bachelor thesis on Continuous Integration and Continuous Delivery
 
-### Latest Blog Posts 📕 
+### My articles 📕 
 
 <!-- BLOG-POST-LIST:START -->
 - [Java JSON Data Binding](https://bulldogjob.pl/news/1401-java-json-data-binding)

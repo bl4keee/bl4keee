@@ -2,8 +2,8 @@
 
 - ⚡ Currently working in Comarch
 - 📕 Computer Science & Econometrics student
-- 🌱 Working on my open source Kanban-Board App in my spare time
-- 🎯 2021 Goal: Bachelor thesis on Continuous Integration and Continuous Delivery
+- 🌱 Working on my open source projects in my spare time
+- 🎯 Bachelor thesis on Continuous Integration and Continuous Delivery
 
 ### My articles 📕 
 

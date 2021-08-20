@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
-- ⚡ Currently working in Comarch
+- ⚡ Currently working in NCDC 
 - 📕 Computer Science & Econometrics student
 - 🌱 Working on my open source projects in my spare time
 - 🎯 Bachelor thesis on Continuous Integration and Continuous Delivery

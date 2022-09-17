@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 - ⚡ Based in Poznań, Poland
-- 📘 IT Project Management student
+- 📘 IT Project Management graduate
 - 📕 Computer Science & Econometrics graduate
 - 🌱 Working on my open source projects in my spare time
 - 🎯 Bachelor thesis on Continuous Integration and Continuous Delivery

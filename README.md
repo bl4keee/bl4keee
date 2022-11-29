@@ -3,6 +3,7 @@
 - ⚡ Based in Poznań, Poland
 - 📘 IT Project Management graduate
 - 📕 Computer Science & Econometrics graduate
+- :green_book: Data Analysis & Data Processing student
 - 🌱 Working on my open source projects in my spare time
 - 🎯 Bachelor thesis on Continuous Integration and Continuous Delivery
 

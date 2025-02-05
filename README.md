@@ -5,7 +5,7 @@
 - 📕 Computer Science & Econometrics graduate
 - :green_book: Data Analysis & Data Processing graduate
 - 🌱 Working on my open source projects in my spare time
-- 🎯 Master thesis on Real time data stream processing
+- 🎯 Master thesis on Real Time Data Stream Processing
 - 🎯 Bachelor thesis on Continuous Integration and Continuous Delivery
 
 ### My articles 📕 
